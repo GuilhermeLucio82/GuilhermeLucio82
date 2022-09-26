@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermelucio82&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermelucio82" /> </p>
 
-- 🌱 I’m currently learning **JavaScript/ Git / React**
+- 🌱 I’m currently learning **JavaScript/ Git / Nest JS**
 
 - 📫 How to reach me **guilhermelucio82@gmail.com**
 
